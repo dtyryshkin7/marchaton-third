@@ -1,3 +1,5 @@
+# This file contains the provider configuration for the Azure provider.
+
 terraform {
   required_providers {
     azurerm = {
