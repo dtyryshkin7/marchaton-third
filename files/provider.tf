@@ -1,4 +1,4 @@
-# This file contains the provider configuration for Terraform Cloud.
+# This file contains the provider configuration for Terraform Cloud, add it to your existing provider configuretion (dont replace)
 
 terraform {
   cloud {
