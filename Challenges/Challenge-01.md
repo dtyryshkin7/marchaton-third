@@ -12,8 +12,8 @@ Your team has been tasked with a critical mission: consolidate all Terraform con
 
 ## Success Criteria
 
-- Your repo has a folder containing as many .tf files as you have team members. 
-- Each .tf contains all infrastructure configuration (RG+VNET+VM) belonging to respective member
+- Your repo has a folder containing one single main.tf file with all resources
+- Main .tf contains all infrastructure configuration (RG+VNET+VM) belonging to respective member
 - provider.tf defined only once (dont forget gitignore :D)
 
 [Home](../README.md) - [Next Challenge >](Challenge-02.md)
