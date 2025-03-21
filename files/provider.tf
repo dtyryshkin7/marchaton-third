@@ -5,7 +5,7 @@ terraform {
     organization = "my-org"
 
     workspaces {
-      project = "networking-development"
+      name = "networking-development"
     }
   }
 }
