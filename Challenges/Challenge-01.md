@@ -15,5 +15,6 @@ Your team has been tasked with a critical mission: consolidate all Terraform con
 - Your repo has a folder containing one single main.tf file with all resources
 - Main .tf contains all infrastructure configuration (RG+VNET+VM) belonging to respective member
 - provider.tf defined only once (dont forget gitignore :D)
+- terraform is initialized in the directory
 
 [Home](../README.md) - [Next Challenge >](Challenge-02.md)
